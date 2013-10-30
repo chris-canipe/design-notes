@@ -3,6 +3,7 @@
 ## General
 
 - [This Is Responsive](http://bradfrost.github.io/this-is-responsive/)
+- [Responsive Design Knowledge Hub](http://www.ugurus.com/responsive-design)
 
 
 ## Navigation
