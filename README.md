@@ -1,5 +1,15 @@
 # Design Notes
 
+## What is it?
+
+- Defining the problem
+- Communication
+- Usefulness
+- Usability
+- Asking "what if"
+- Thoroughness
+- ["[A]ccounting for the best situations, the worst, and everything in between."](http://bradfrostweb.com/blog/post/designing-with-dynamic-content/)
+
 ## Fundamentals, principles, et al
 
 - [Seven unbreakable laws of UI design](http://99designs.com/designer-blog/2014/01/15/7-unbreakable-laws-of-user-interface-design/?ref=heydesigner)
