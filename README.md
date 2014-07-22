@@ -10,6 +10,12 @@
 - Thoroughness
 - ["[A]ccounting for the best situations, the worst, and everything in between."](http://bradfrostweb.com/blog/post/designing-with-dynamic-content/)
 
+## Links
+- [UX is not UI](http://www.uxisnotui.com)
+- [UI, UX: Who Does What? A Designer's Guide To The Tech Industry](http://www.fastcodesign.com/3032719/ui-ux-who-does-what-a-designers-guide-to-the-tech-industry?)
+- [Design is the Experience](https://medium.com/@tinkadoic/design-is-the-experience-7b4339021e41)
+- [Design Comes in Threes](http://www.lukew.com/ff/entry.asp?367)
+
 ## Fundamentals, principles, et al
 
 - [Seven unbreakable laws of UI design](http://99designs.com/designer-blog/2014/01/15/7-unbreakable-laws-of-user-interface-design/?ref=heydesigner)
